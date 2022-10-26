@@ -1,1 +1,1 @@
-# fwgan_demo
+Placeholder for demo samples 
