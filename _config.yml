@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-title: Framewise WaveGAN Demo
+title: Framewise WaveGAN: High Speed Adversarial Vocoder in Time Domain with Very Low Computational Complexity
 github:
   is_project_page: false
