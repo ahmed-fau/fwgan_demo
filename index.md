@@ -1,9 +1,9 @@
-# <center>Hierarchical Diffusion Models for Singing Voice Neural Vocoder</center>
+# <center>Framewise WaveGAN: High Speed Adversarial Vocoder in Time Domain with Very Low Computational Complexity</center>
 
-<center><a href="https://scholar.google.com/citations?user=JbtYJMoAAAAJ">Naoya Takahashi</a>, Mayank Kumar Singh, Yuki Mitsufuji</center><br> 
-<center>Sony Group Coporation</center> 
+<center>Ahmed Mustafa, Jean-Marc Valin, Jan Büthe, Paris Smaragdis, Mike Goodwin</center><br> 
+<center>Amazon Web Services    University of Illinois at Urbana-Champaign</center> 
 
 <br>
 
-## Introduction
-Despite progress in neural vocoders, generating a high-quality singing voice remains challenging due to a wider variety of musical expressions in pitch, loudness, and pronunciations. In this work, we propose a hierarchical diffusion model for singing voice neural vocoders. The proposed method consists of multiple diffusion models operating in different sampling rates; the model at the lowest sampling rate focuses on generating accurate low-frequency components such as pitch, and other models progressively generate the waveform at higher sampling rates on the basis of the data at the lower sampling rate and acoustic features. In this demo page, we present some audio samples.
+## Abstract
+GAN vocoders are currently one of the state-of-the-art methods for building high-quality neural waveform generative models. However, most of their architectures require dozens of billion floating-point operations per second (GFLOPS) to generate speech waveforms in samplewise manner. This makes GAN vocoders still challenging to run on normal CPUs without accelerators or parallel computers. In this work, we propose a new architecture for GAN vocoders that mainly depends on recurrent and fully-connected networks to directly generate the time domain signal in framewise manner. This results in considerable reduction of the computational cost and enables very fast generation on both GPUs and low-complexity CPUs. Experimental results show that our Framewise WaveGAN vocoder achieves significantly higher quality than auto-regressive maximumlikelihood vocoders such as LPCNet at a very low complexity of 1.2 GFLOPS. This makes GAN vocoders more practical on edge and low-power devices.
