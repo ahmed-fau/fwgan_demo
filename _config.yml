@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-layout: default
-title: Title
+github:
+  is_project_page: false
+title: [Framewise WaveGAN Demo]
