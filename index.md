@@ -18,7 +18,10 @@
 
 ## Before you listen:
 <ul>
-  <li><p>The normal voice samples in this demo are obtained from the publicly-available datasets: the <a href="https://datashare.ed.ac.uk/handle/10283/2950">VCTK</a>, provided under <a href= "https://datashare.ed.ac.uk/bitstream/handle/10283/3443/license_text?sequence=3&isAllowed=y"> creative commons license</a> & the <a href="http://www.festvox.org/cmu_arctic/">CMU ARCTIC Database</a> </p></li>
+  <li>The normal voice samples in this demo are obtained from the publicly-available datasets: 
+    <ul>
+      <li><p>The <a href="https://datashare.ed.ac.uk/handle/10283/2950">VCTK</a>, provided under <a href= "https://datashare.ed.ac.uk/bitstream/handle/10283/3443/license_text?sequence=3&isAllowed=y"> creative commons license</a></p></li>
+      <li><p>The <a href="http://www.festvox.org/cmu_arctic/">CMU ARCTIC Database</a>, &#169 Carnegie Mellon University, 2003, All Rights Reserved, <a href="./cmu_arctic_report.pdf">license</a>.</p></li></ul></li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
