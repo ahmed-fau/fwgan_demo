@@ -1,10 +1,6 @@
-# <center><p>Framewise WaveGAN: High Speed Adversarial Vocoder in Time Domain with Very Low Computational Complexity</p></center>
+# <center><p>Ahmed Mustafa,&nbsp; Jean-Marc Valin,&nbsp; Jan Büthe,&nbsp; Paris Smaragdis,&nbsp; Mike Goodwin</p></center>
 
 <br>
-
-<center><p>Ahmed Mustafa,&nbsp; Jean-Marc Valin,&nbsp; Jan Büthe,&nbsp; Paris Smaragdis,&nbsp; Mike Goodwin</p></center>
-
-<br> 
 
 <center><p><em>Amazon Web Services &nbsp;&nbsp;&nbsp;&nbsp;   University of Illinois at Urbana-Champaign</em></p></center> 
 
