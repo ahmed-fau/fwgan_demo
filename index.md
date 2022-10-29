@@ -39,20 +39,20 @@
       <tr>
       
       <td><audio  controls="" style="width:150px;" preload="auto">
-            <source src="wavs/GT/F02_117.wav"></audio></td>
+            <source src="wavs/lpcnet/v1.wav"></audio></td>
       <td><audio  controls="" style="width:150px;" preload="auto">
-            <source src="wavs/PWG/F02_117.wav"></audio></td>
+            <source src="wavs/fwgan/v1.wav"></audio></td>
       <td><audio  controls="" style="width:150px;" preload="auto">
-            <source src="wavs/PG/F02_117.wav"></audio></td>
+            <source src="wavs/original/v1.wav"></audio></td>
     </tr>
     <tr>
     
       <td><audio  controls="" style="width:150px;" preload="auto">
-            <source src="wavs/GT/NJAT_12.wav"></audio></td>
+            <source src="wavs/lpcnet/v7.wav"></audio></td>
       <td><audio  controls="" style="width:150px;" preload="auto">
-            <source src="wavs/PWG/NJAT_12.wav"></audio></td>
+            <source src="wavs/fwgan/v7.wav"></audio></td>
       <td><audio  controls="" style="width:150px;" preload="auto">
-            <source src="wavs/PG/NJAT_12.wav"></audio></td>
+            <source src="wavs/original/v7.wav"></audio></td>
 
     </tr>
     <tr>
