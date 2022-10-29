@@ -25,7 +25,7 @@
 
 <br> 
 
-### Normal Voice Samples:
+### Normal Voice Samples (listening via headset is recommended):
 
 <table align="center"  style="text-align: center;">
   <thead>
@@ -58,13 +58,35 @@
     <tr>
      
       <td><audio  controls="" style="width:150px;" preload="auto">
-            <source src="wavs/GT/English-Elvis_139.wav"></audio></td>
+            <source src="/wavs/lpcnet/v5.wav"></audio></td>
       <td><audio  controls="" style="width:150px;" preload="auto">
-            <source src="wavs/PWG/English-Elvis_139.wav"></audio></td>
+            <source src="/wavs/fwgan/v5.wav"></audio></td>
       <td><audio  controls="" style="width:150px;" preload="auto">
-            <source src="wavs/PG/English-Elvis_139.wav"></audio></td>
+            <source src="/wavs/original/v5.wav"></audio></td>
 
     </tr>
+    
+    <tr>
+     
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="/wavs/lpcnet/v4.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="/wavs/fwgan/v4.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="/wavs/original/v4.wav"></audio></td>
+
+    </tr>
+    <tr>
+     
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="/wavs/lpcnet/a4.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="/wavs/fwgan/a4.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="/wavs/original/a4.wav"></audio></td>
+
+    </tr>
+    
   </tbody>
 </table>
 
