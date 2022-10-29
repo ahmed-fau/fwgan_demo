@@ -101,7 +101,69 @@
   </tbody>
 </table>
 
-    
 <br>
 
+### Singing Voice Samples:
 
+<table align="center"  style="text-align: center;">
+  <thead>
+    <tr>
+      <th style="text-align: center;">LPCNet 1.2GFLOPS</th>
+      <th style="text-align: center;">Framewise WaveGAN 1.2GFLOPS (Proposed)</th>
+      <th style="text-align: center;">Original</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/lpcnet/s3.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/fwgan/s3.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/original/s3.wav"></audio></td>
+    </tr>
+    <tr>
+    
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/lpcnet/s1.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/fwgan/s1.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/original/s1.wav"></audio></td>
+
+    </tr>
+    <tr>
+     
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/lpcnet/s4.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/fwgan/s4.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/original/s4.wav"></audio></td>
+
+    </tr>
+    
+    <tr>
+     
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/lpcnet/s7.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/fwgan/s7.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/original/s7.wav"></audio></td>
+
+    </tr>
+    <tr>
+     
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/lpcnet/s8.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/fwgan/s8.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/original/s8.wav"></audio></td>
+
+    </tr>
+    
+  </tbody>
+</table>
