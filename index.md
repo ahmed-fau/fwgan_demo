@@ -87,6 +87,17 @@
 
     </tr>
     
+    <tr>
+     
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/lpcnet/a5.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/fwgan/a5.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/original/a5.wav"></audio></td>
+
+    </tr>
+    
   </tbody>
 </table>
 
