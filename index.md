@@ -23,5 +23,52 @@
   <li><p>The singing voice samples in this demo are obtained from the official demo of <a href="https://arxiv.org/abs/2210.07508"> this paper</a>. We don not train the vocoders on any singing voice datasets. This is just to show the pitch consistency of the two vocoders when generating unseen expressive speech samples.</p></li>
 </ul>
 
+<br> 
+
+### Normal Voice Samples:
+
+<table align="center"  style="text-align: center;">
+  <thead>
+    <tr>
+      <th style="text-align: center;">LPCNet 1.2GFLOPS</th>
+      <th style="text-align: center;">Framewise WaveGAN 1.2GFLOPS (Proposed)</th>
+      <th style="text-align: center;">Original</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/GT/F02_117.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/PWG/F02_117.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/PG/F02_117.wav"></audio></td>
+    </tr>
+    <tr>
+    
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/GT/NJAT_12.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/PWG/NJAT_12.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/PG/NJAT_12.wav"></audio></td>
+
+    </tr>
+    <tr>
+     
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/GT/English-Elvis_139.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/PWG/English-Elvis_139.wav"></audio></td>
+      <td><audio  controls="" style="width:150px;" preload="auto">
+            <source src="wavs/PG/English-Elvis_139.wav"></audio></td>
+
+    </tr>
+  </tbody>
+</table>
+
+    
+<br>
 
 
