@@ -20,7 +20,7 @@
       <li><p>The <a href="https://datashare.ed.ac.uk/handle/10283/2950">VCTK</a>, provided under <a href= "https://datashare.ed.ac.uk/bitstream/handle/10283/3443/license_text?sequence=3&isAllowed=y"> creative commons license</a></p></li>
       <li><p>The <a href="http://www.festvox.org/cmu_arctic/">CMU ARCTIC Database</a>, &#169; Carnegie Mellon University, 2003, All Rights Reserved, <a href="./cmu_arctic_report.pdf">license</a>.</p></li></ul></li>
   <li><p>Both datasets were not used in training the vocoders in this demo.</p></li>
-  <li><p>The singing voice samples in this demo are obtained from the official demo of <a href="https://arxiv.org/abs/2210.07508"> this paper</a>. <b>We don not train the vocoders on any singing voice datasets</b>. This is just to show the pitch consistency of the two vocoders when generating unseen expressive speech samples.</p></li>
+  <li><p>The singing voice samples in this demo are obtained from the official demo of <a href="https://arxiv.org/abs/2210.07508"> this paper</a>. <b>We don't train the vocoders on any singing voice datasets</b>. This is just to show the pitch consistency of the two vocoders when generating unseen expressive speech samples.</p></li>
 </ul>
 
 <br> 
